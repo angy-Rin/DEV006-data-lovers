@@ -16,7 +16,7 @@
 En este proyecto se tiene como principal objetivo procesar data, desplegandola a
 través de una _interfaz_ amigable y entendible para el usuario. La forma en la que
 se proceso el conjunto de datos fue manipulandola para poder visualizarla, ordenarla
-y filtrarla, además de poder obtener un cálculo agregado. 
+y filtrarla, además de poder obtener un cálculo agregado.
 
 La data elegida en este proyecto fue sobre Harry Potter, por lo que estas funciones anteriormente
 mencionadas se presentan al usuario en una página web que contiene un diseño que evoque a las películas y libros de la franquicia,
@@ -42,6 +42,8 @@ _" Yo como espectador de Harry Potter, quiero ver las pociones por orden alfabé
 * HU 4. Cálculo agregado
 
 _"Yo como usuaria, quiero saber el promedio de mujeres y hombres, y el total de estudiantes en las casas , para conocer la inclusión de las mujeres en Hogwarts."_
+
+En esta HU se pudo trabajar con las librerias de charts para plasmar los resultados de promedio, completando de esta forma con el hacker edition propuesto para el proyecto.
 
 ## 3. Prototipo de Baja Fidelidad
 
@@ -91,11 +93,13 @@ Versión responsive:
 
 El proyecto fue iterado a través de todos estos problemas detectados, dandoles solución y llegando asi a la versión final.
 
-## 6. Criterios Mínimos de Aceptación
+## 6. Criterios Cumplidos 
 
 - [x] Cumple con los criterios mínimos de 4 Historias de Usuario
 - [x] El proyecto no presenta errores de eslint
-- [x] Las pruebas unitarias cubren el 100% de statements, functions, lines y branches.
-- [x] El código esta en el repositorio de GitHub.
+- [x] Las pruebas unitarias cubren el 100% de statements, functions, lines y branches
+- [x] Utilizar visualizaciones gráficas con librerías Chart.js o Google Charts
+- [x] Se aplicó fetch para trabajar con data de archivos JSON
+- [x] El código esta en el repositorio de GitHub
 - [x] El proyecto esta desplegado en GitHub Pages
-- [x] El README contiene una definición del producto e Historias de Usuario.
+- [x] El README contiene una definición del producto e Historias de Usuario
